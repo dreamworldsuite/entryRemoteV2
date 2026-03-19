@@ -1,0 +1,6 @@
+{
+  "minAppVersion": 2,
+  "catalogVersion": "v2.0.1",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/dreamworldsuite/addressables-catalogV2",
+  "catalogFileName": "catalog_1.json"
+}
